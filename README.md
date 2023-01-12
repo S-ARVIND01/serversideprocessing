@@ -46,7 +46,7 @@ area.html:
     }
 
     body{
-    background-color: rgb(3, 63, 143);
+    background-color: whitesmoke;
     }
 
     .container{
@@ -56,9 +56,9 @@ area.html:
     margin-left: auto;
     margin-right: auto;
     border-radius: 25px;
-    border: 10px solid rgb(16, 209, 74);
-    box-shadow: inset 0 0 15px rgb(10, 233, 129);
-    background-color:rgb(202, 27, 15);
+    border: 10px solid rgb(0, 0, 0);
+    box-shadow: inset 0 0 100px rgb(0, 0, 0);
+    background-color:rgb(51, 255, 51);
     }
     h1{
         text-align: center;
@@ -133,11 +133,11 @@ urlpatterns = [
 ## OUTPUT:
 OUTPUT WITHOUT CALCULATIONS:
 
-![output](/Screenshot_20230112_082019.png)
+![output](/1.png)
 
 OUTPUT WITH CALCULATIONS:
 
-![output](/Screenshot_20230112_080926.png)
+![output](/2.png)
 
 ## Result:
 
